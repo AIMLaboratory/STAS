@@ -28,9 +28,9 @@ data only. No test-set data were used for model selection or threshold tuning.
 code/
   segmentation/      # nnU-Net data prep, five-fold training, OOF, IT1/IT2/ET inference
   classification/    # DenseNet121 / ResNet34 training, independent test, DeLong, jackknife, Grad-CAM
-data/                # placeholder — no patient data included
+  requirements.txt
 README.md
-requirements.txt
+
 ```
 
 ---
